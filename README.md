@@ -1,3 +1,6 @@
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE5ama3HxWasw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731150858557?e=1736380800&v=beta&t=oSfwAIoOJK6ix2UpTlQatEM8jyvN7h64b3fR8CtmWXg" alt="logo">
+
+
 <h1 align="center">Hi 👋, I'm ABHISHEK PANDEY</h1>
 <h3 align="center">Proficient in designing user-friendly interfaces and developing robust applications. Currently pursuing a Postgraduate degree in Computer Applications with a proven track record of academic excellence.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c50778302259b0f7ce93da47d3e77729929875c1992e689228af48b6589a8993/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966">
