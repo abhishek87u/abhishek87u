@@ -3,7 +3,7 @@
 <h1 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 3.5em; font-weight: bold; color: #4B0082; background: linear-gradient(to right, #4B0082, #8A2BE2); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm ABHISHEK PANDEY</h1>
 <h3 align="center" style="color: #8A2BE2; font-family: 'Verdana', sans-serif;">Proficient in designing user-friendly interfaces and developing robust applications. Currently pursuing a Postgraduate degree in Computer Applications with a proven track record of academic excellence.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c50778302259b0f7ce93da47d3e77729929875c1992e689228af48b6589a8993/68747470733a2f2f696d6167652e6962622e636f2f6a456b6364642f66726f6e745f656e645f646576656c6f706572735f6f70656e696e67735f312e676966" style="border-radius: 15px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);"/>
+<img align="right" alt="coding" width="400" src="https://cdn.pixabay.com/animation/2022/11/13/07/16/07-16-41-513_512.gif" style="border-radius: 15px; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhishek87u&label=Profile%20views&color=FF6347&style=for-the-badge" alt="Profile Views" />
